@@ -4,7 +4,7 @@ legacylol@arch:~$ bence > README.md
 
 > ## Hello, World!
 
-<img align="left" src="https://www.github.com/x00bence.png" width="300" height="300" />
+<img align="left" src="https://avatars.githubusercontent.com/u/40184649?v=4" width="300" height="300" />
 
 ## legacylol@arch
 
