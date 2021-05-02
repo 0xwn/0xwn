@@ -9,13 +9,13 @@ x00bence@arch:~$ bence > README.md
 ## x00bence@arch
 
 ![name](https://img.shields.io/static/v1?label=&message=name%3A&color=111&style=flat-square)
-![name2](https://img.shields.io/static/v1?label=&message=Wendel "legacylol" &color=555&style=flat-square)
+![name2](https://img.shields.io/static/v1?label=&message=Wendel%20%22"legacylol"%20%22&color=555&style=flat-square)
 
 ![asl](https://img.shields.io/static/v1?label=&message=A%2FS%2FL%3A&color=111&style=flat-square)
-![asl2](https://img.shields.io/static/v1?label=&message=17MaleBrazil&color=555&style=flat-square)
+![asl2](https://img.shields.io/static/v1?label=&message=17%2C%20Male%2C%20Brazil&color=555&style=flat-square)
 
 ![occupation](https://img.shields.io/static/v1?label=&message=occupation%3A&color=111&style=flat-square)
-![occupation2](https://img.shields.io/static/v1?label=&message=student, front-end dev&color=555&style=flat-square)
+![occupation2](https://img.shields.io/static/v1?label=&message=student%2C%20front-end%20dev&color=555&style=flat-square)
 
 ![contact](https://img.shields.io/static/v1?label=&message=contact%3A&color=111&style=flat-square)
 ![contact1](https://img.shields.io/static/v1?logo=github&label=&message=legacylol&color=555&logoColor=AAA&style=flat-square)
