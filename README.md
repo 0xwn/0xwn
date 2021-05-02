@@ -9,7 +9,7 @@ legacylol@arch:~$ bence > README.md
 ## legacylol@arch
 
 ![name](https://img.shields.io/static/v1?label=&message=name%3A&color=111&style=flat-square)
-![name2](https://img.shields.io/static/v1?label=&message=Wendel%20%22"legacylol"&color=555&style=flat-square)
+![name2](https://img.shields.io/static/v1?label=&message=Wendel%20%22legacylol"&color=555&style=flat-square)
 
 ![asl](https://img.shields.io/static/v1?label=&message=A%2FS%2FL%3A&color=111&style=flat-square)
 ![asl2](https://img.shields.io/static/v1?label=&message=17%2C%20Male%2C%20Brazil&color=555&style=flat-square)
