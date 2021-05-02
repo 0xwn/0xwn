@@ -1,12 +1,12 @@
 ```console
-x00bence@arch:~$ bence > README.md
+legacylol@arch:~$ bence > README.md
 ```
 
 > ## Hello, World!
 
 <img align="left" src="https://www.github.com/x00bence.png" width="300" height="300" />
 
-## x00bence@arch
+## legacylol@arch
 
 ![name](https://img.shields.io/static/v1?label=&message=name%3A&color=111&style=flat-square)
 ![name2](https://img.shields.io/static/v1?label=&message=Wendel%20%22"legacylol"%20%22&color=555&style=flat-square)
