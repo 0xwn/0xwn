@@ -1,26 +1,23 @@
 ```console
-legacylol@arch:~$ bence > README.md
+root@lega cy
 ```
+## I am a passionate developer and programmer from Brazil ᵇʳ
 
-> ## Hello, World!
+<div align="center">
+  <a href="https://github.com/legacylol">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=legacylol&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legacylol&layout=compact&langs_count=7&theme=material-palenight"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="legacy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="legacy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="legacy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="devil-pic" height="150" style="border-radius:50px;" 
+       src="https://64.media.tumblr.com/eaed5cc184e6c8908a857e61e8d8e63f/f59819e92e631040-f0/s400x600/4e2b35551a53e182558ff50f6234b3a0daadff63.png">
+</div>
 
-<img align="left" src="https://avatars.githubusercontent.com/u/40184649?v=4" width="300" height="300" />
-
-## legacylol@arch
-
-![name](https://img.shields.io/static/v1?label=&message=name%3A&color=111&style=flat-square)
-![name2](https://img.shields.io/static/v1?label=&message=Wendel%20%22legacylol"&color=555&style=flat-square)
-
-![asl](https://img.shields.io/static/v1?label=&message=A%2FS%2FL%3A&color=111&style=flat-square)
-![asl2](https://img.shields.io/static/v1?label=&message=17%2C%20Male%2C%20Brazil&color=555&style=flat-square)
-
-![occupation](https://img.shields.io/static/v1?label=&message=occupation%3A&color=111&style=flat-square)
-![occupation2](https://img.shields.io/static/v1?label=&message=student%2C%20front-end%20dev&color=555&style=flat-square)
-
-![contact](https://img.shields.io/static/v1?label=&message=contact%3A&color=111&style=flat-square)
-![contact1](https://img.shields.io/static/v1?logo=github&label=&message=legacylol&color=555&logoColor=AAA&style=flat-square)
-![contact2](https://img.shields.io/static/v1?logo=gmail&label=&message=wendelp313@gmail.com&color=555&logoColor=AAA&style=flat-square)
-![contact3](https://img.shields.io/static/v1?logo=discord&label=&message=.legacy#5182&color=555&logoColor=AAA&style=flat-square)
-
-![credits](https://img.shields.io/static/v1?label=&message=credits%3A&color=111&style=flat-square)
-![credits1](https://img.shields.io/static/v1?logo=github&label=&message=x00bence&color=555&logoColor=AAA&style=flat-square)
+  ##
+ 
+<div> 
+  <a href = "mailto:wendelp313@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
