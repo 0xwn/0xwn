@@ -1,7 +1,7 @@
 ```console
 root@lega cy
 ```
-## I am a passionate developer and programmer from Brazil ᵇʳ
+## ᵇʳ
 
 <div align="center">
   <a href="https://github.com/legacylol">
